@@ -1,26 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jose Muñoz</h1>
-<h3 align="center">Cybersecurity Analyst | Incident Response • Vulnerability Assessment • Linux Security</h3>
+# Hi 👋, I'm Jose Muñoz
 
-- 🔭 I’m currently working on [Security Incident Response and Debian Server Hardening Lab](https://github.com/josedanielmunoz/cybersecurity-incident-analysis)
+**IT Support & Web Infrastructure | AI Research Operations · Information Security · WordPress**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Security Cloud**
+I'm an Industrial Designer transitioning into technology through IT support, web infrastructure, information security and AI-supported research operations.
 
-- 👯 I’m looking to collaborate on **Cybersecurity labs, Blue Team projects and vulnerability research**
+I currently contribute to the **Judgmentalism Project**, supporting research operations, WordPress-based infrastructure, technical documentation and AI model evaluation workflows.
 
-- 👨‍💻 All of my projects are available at [https://github.com/josedanielmunoz](https://github.com/josedanielmunoz)
+## Current focus
 
-- 💬 Ask me about **Nmap • Autopsy • Linux Security • Vulnerability Assessment • Server Hardening • Blue Team • Documentation**
+- 🔐 Information security, Linux hardening and incident response fundamentals
+- 🌐 WordPress-based web infrastructure, DNS, SSL/TLS and hosting operations
+- 🤖 AI research operations, data management and model evaluation workflows
+- 📚 Technical documentation, reproducible workflows and research infrastructure
 
-- 📫 How to reach me **josed.munoz.a@gmail.com**
+## Featured work
 
-- 📄 Know about my experiences [https://flowcv.com/resume/2ot462h6kd5m](https://flowcv.com/resume/2ot462h6kd5m)
+- 🧪 **MVC Study Technical Research Infrastructure**  
+  Research infrastructure and data management support for a multi-provider AI model evaluation study. Listed as data manager on a Zenodo-hosted preprint.  
+  DOI: `10.5281/zenodo.19633312`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/josemunozar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josemunozar" height="30" width="40" /></a>
-</p>
+- 🛡️ **Security Incident Response and Debian Server Hardening**  
+  Cybersecurity bootcamp project involving unauthorised SSH access investigation, forensic review, vulnerability assessment and Linux hardening.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Tools and technologies
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josedanielmunoz&show_icons=true&locale=en&layout=compact" alt="josedanielmunoz" /></p>
+`WordPress` · `cPanel` · `DNS` · `SSL/TLS` · `SPF/DKIM/DMARC` · `Linux` · `Git/GitHub` · `R Shiny` · `Python` · `Nmap` · `Autopsy` · `Nikto` · `WPScan`
+
+## Connect with me
+
+- LinkedIn: [linkedin.com/in/josemunozar](https://www.linkedin.com/in/josemunozar)
+- Email: [josed.munoz.a@gmail.com](mailto:josed.munoz.a@gmail.com)
